@@ -10,16 +10,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabpinel" alt="fabpinel" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fabien-pinel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabien-pinel" height="30" width="40" /></a>
-</p>
-
 <!--Intro start-->
 - <a href="https://linkedin.com/in/fabien-pinel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabien-pinel" height="30" width="40" /></a>
-
-- 🌱 I’m currently learning **to became a fullstack dev**
-
-- 💬 Ask me about **PHP POO, SQL**
 
 - 📫 Feel free to reach me out **fabien.pinel08@gmail.com**
 
