@@ -7,9 +7,6 @@
 
 <img align="center" alt="Codage" width="400" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabpinel&label=Profile%20views&color=0e75b6&style=flat" alt="fabpinel" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabpinel" alt="fabpinel" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -39,6 +36,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabpinel&theme=dark" alt="fabpinel" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabpinel&label=Profile%20views&color=0e75b6&style=flat" alt="fabpinel" /> </p>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
