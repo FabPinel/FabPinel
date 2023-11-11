@@ -5,6 +5,9 @@
 <h1 align="center">Hi 👋, I'm Fabien PINEL</h1>
 <h3 align="center">IT student in third year of work-study program</h3>
 
+<img align="right" alt="Codage" width="400" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif)">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabpinel&label=Profile%20views&color=0e75b6&style=flat" alt="fabpinel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabpinel" alt="fabpinel" /></a> </p>
