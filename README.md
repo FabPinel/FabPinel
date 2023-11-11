@@ -1,7 +1,7 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<img src="https://image.noelshack.com/fichiers/2023/45/6/1699718435-linkedin.jpg">
 <h1 align="left">Hi 👋, I'm Fabien PINEL</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&duration=3000&pause=1000&color=F98B0D&random=false&width=435&lines=IT+student+in+third+year+of+internship.;at+the+G4+institute+in+Marseille%2CFrance.;I+have+a+web+developer+degree%2C;I+want+to+become+a+fullstack+dev." alt="Typing SVG" /></a>
 
