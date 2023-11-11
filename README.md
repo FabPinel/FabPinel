@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <!--Intro start-->
 - <a href="https://linkedin.com/in/fabien-pinel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabien-pinel" height="30" width="40" /></a>
+
 - 📫 Feel free to reach me out **fabien.pinel08@gmail.com**
 
 <!--Intro end-->
